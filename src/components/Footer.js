@@ -16,13 +16,31 @@ const FooterContainer = styled.footer`
   }
 `;
 
-
 function Footer() {
   return (
     <FooterContainer>
-      <span>Created with <span role="img" aria-label="love">❤</span> and <span role="img" aria-label="coffee">☕</span>  by Utkarsh Dubey.</span><br/><br/>
-      <LinkStd href="https://www.instagram.com/ecstatic.illusion/" target="_blank">IG</LinkStd>
-      <LinkStd href="https://github.com/utkarshdubey" target="_blank">Github</LinkStd>
+      <span>
+        Created with{' '}
+        <span role="img" aria-label="love">
+          ❤
+        </span>{' '}
+        and{' '}
+        <span role="img" aria-label="coffee">
+          ☕
+        </span>{' '}
+        by Utkarsh Dubey.
+      </span>
+      <br />
+      <br />
+      <LinkStd
+        href="https://www.instagram.com/ecstatic.illusion/"
+        target="_blank"
+      >
+        IG
+      </LinkStd>
+      <LinkStd href="https://github.com/utkarshdubey" target="_blank">
+        Github
+      </LinkStd>
     </FooterContainer>
   );
 }

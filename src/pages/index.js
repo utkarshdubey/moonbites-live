@@ -37,7 +37,15 @@ function Blog({ data }) {
         <Hero>
           <HeadingPrimary>Moonbites</HeadingPrimary>
           <TextBody>
-            A personal collection of <span role="img" aria-label="pen">✒</span> poems and random <span role="img" aria-label="research paper">📄</span> research papers by Utkarsh Dubey.
+            A personal collection of{' '}
+            <span role="img" aria-label="pen">
+              ✒
+            </span>{' '}
+            poems and random{' '}
+            <span role="img" aria-label="research paper">
+              📄
+            </span>{' '}
+            research papers by Utkarsh Dubey.
           </TextBody>
         </Hero>
         {data.allMarkdownRemark.edges.map(({ node }) => (

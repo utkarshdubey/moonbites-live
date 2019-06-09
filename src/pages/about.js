@@ -41,7 +41,9 @@ function Info({ data }) {
           <Img fluid={data.RandomPhoto.childImageSharp.fluid} />
         </ImgDiv>
         <TextBody>
-          Hi! My name is Utkarsh, I am a 15 year old tech-enthusiast who loves to write poems and papers on random things like <b>Why is coffee weird but tasty?</b> and other stuff.
+          Hi! My name is Utkarsh, I am a 15 year old tech-enthusiast who loves
+          to write poems and papers on random things like{' '}
+          <b>Why is coffee weird but tasty?</b> and other stuff.
           <br />
           <br />
           Below is the stuff which I do:-
@@ -55,14 +57,19 @@ function Info({ data }) {
             <li>Listening to songs</li>
             <li>Peeking out where **************</li>
           </ul>
-          If you were able to make it to the very end here and read all of this, congratulations you just wasted 0.78 minutes of your time on reading random stuff. Go read my poems instead of this -_- 
-          </TextBody>
+          If you were able to make it to the very end here and read all of this,
+          congratulations you just wasted 0.78 minutes of your time on reading
+          random stuff. Go read my poems instead of this -_-
+        </TextBody>
         <ButtonWrapper>
           <a href="mailto:utkarsh.dubey3jan@gmail.com">
             <Button>Contact me</Button>
           </a>
         </ButtonWrapper>
-        <span style={{fontSize: 14, backgroundColor: 'blue', color: 'white'}}>PSST! By the way, you can always send me some nice 2mb gifs on my email.</span>
+        <span style={{ fontSize: 14, backgroundColor: 'blue', color: 'white' }}>
+          PSST! By the way, you can always send me some nice 2mb gifs on my
+          email.
+        </span>
       </Layout>
     </>
   );

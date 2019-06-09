@@ -23,7 +23,12 @@ function Header() {
     <HeaderLogo>
       <Logo>Utkarsh Dubey</Logo>
       <Link to="/about">
-        <p>Want to know more about me? <span role="img" aria-label="person">👦</span></p>
+        <p>
+          Want to know more about me?{' '}
+          <span role="img" aria-label="person">
+            👦
+          </span>
+        </p>
       </Link>
     </HeaderLogo>
   );
