@@ -37,9 +37,9 @@ function Info({ data }) {
       <HeaderBack />
       <Layout>
         <HeadingPrimary>About</HeadingPrimary>
-        <ImgDiv>
+        {/* <ImgDiv>
           <Img fluid={data.RandomPhoto.childImageSharp.fluid} />
-        </ImgDiv>
+        </ImgDiv> */}
         <TextBody>
           Hi! My name is Utkarsh, I am a 15 year old tech-enthusiast who loves
           to write poems and papers on random things like{' '}
