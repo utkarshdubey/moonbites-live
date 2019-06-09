@@ -1,16 +1,13 @@
 ---
-title: 'M.E.M.O.R.I.E.S - Utkarsh Dubey'
+title: 'M.E.M.O.R.I.E.S'
 date: '2019-05-17'
 ---
 
 <br>
-<br>
 
 **M.E.M.O.R.I.E.S is based on a beautiful moment where somebody reminisces about their mistakes in the past and tries to think of ways to get over them.**
-
 <br>
 <br>
-
 <br>
 Hey,
 <br>

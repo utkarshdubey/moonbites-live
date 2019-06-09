@@ -1,5 +1,5 @@
 ---
-title: 'One last time - Utkarsh Dubey'
+title: 'One last time'
 date: '2019-03-02'
 ---
 

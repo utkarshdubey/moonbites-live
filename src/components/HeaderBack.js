@@ -18,7 +18,7 @@ const Icon = styled.div`
 
 function Header() {
   return (
-    <FixedBar>
+    <FixedBar style={{marginTop: 15}}>
       <Link to="/">
         <Icon>
           <img src={ArrowBack} alt="Back" />

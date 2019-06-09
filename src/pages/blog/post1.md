@@ -1,5 +1,5 @@
 ---
-title: 'Hope - Utkarsh Dubey'
+title: 'Hope'
 date: '2019-06-09'
 ---
 
@@ -7,7 +7,6 @@ date: '2019-06-09'
 <br>
 
 **Hope is based on some incidents which happened with me yesterday, it reverberates along some of my lows and worst moments of my life.**
-
 <br>
 <br>
 

@@ -20,6 +20,8 @@ export default ({ data }) => {
         <HeadingPrimary>{post.frontmatter.title}</HeadingPrimary>
         <TextDate>{post.frontmatter.date}</TextDate>
         <TextBody dangerouslySetInnerHTML={{ __html: post.html }} />
+
+        <b>- Utkarsh Dubey</b>
       </Layout>
     </>
   );
