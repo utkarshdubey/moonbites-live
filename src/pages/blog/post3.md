@@ -6,7 +6,7 @@ date: '2019-03-02'
 <br>
 <br>
 
-**This poem is about a person when he leaves a place and tries to convey his lover about what he felt for her, it beholds a deep meaning.**
+**This poem is about a person when he leaves a place and tries to express feelings for his lover about what he felt for her, it beholds a deep meaning.**
 
 <br>
 <br>
