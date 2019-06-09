@@ -3,7 +3,7 @@ import { Link, graphql } from 'gatsby';
 import styled from 'styled-components';
 
 import Layout from '../components/Layout';
-import SEO from '../components/Seo';
+// import SEO from '../components/Seo';
 import HeaderLogo from '../components/HeaderLogo';
 
 import HeadingPrimary from '../elements/HeadingPrimary';
@@ -31,7 +31,7 @@ const Post = styled.div`
 function Blog({ data }) {
   return (
     <>
-      <SEO title="Moonbites" />
+      {/* <SEO title="Moonbites" /> */}
       <HeaderLogo />
       <Layout>
         <Hero>

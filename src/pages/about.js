@@ -4,7 +4,7 @@ import Img from 'gatsby-image';
 import styled from 'styled-components';
 
 import Layout from '../components/Layout';
-import SEO from '../components/Seo';
+// import SEO from '../components/Seo';
 import HeaderBack from '../components/HeaderBack';
 
 import HeadingPrimary from '../elements/HeadingPrimary';
@@ -33,7 +33,7 @@ const ButtonWrapper = styled.div`
 function Info({ data }) {
   return (
     <>
-      <SEO title="About" />
+      {/* <SEO title="About" /> */}
       <HeaderBack />
       <Layout>
         <HeadingPrimary>About</HeadingPrimary>

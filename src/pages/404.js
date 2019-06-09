@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 import styled from 'styled-components';
 
 import Layout from '../components/Layout';
-import SEO from '../components/Seo';
+// import SEO from '../components/Seo';
 
 import HeadingPrimary from '../elements/HeadingPrimary';
 import TextBody from '../elements/TextBody';
@@ -24,7 +24,7 @@ const ButtonCentered = styled(Button)`
 function NotFoundPage() {
   return (
     <>
-      <SEO title="404: Not found" />
+      {/* <SEO title="404: Not found" /> */}
       <Layout>
         <Wrapper>
           <HeadingPrimary>Nothing exists here</HeadingPrimary>
