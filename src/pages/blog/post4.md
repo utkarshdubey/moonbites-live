@@ -4,7 +4,7 @@ date: '2019-06-10'
 ---
 <br>
 
-**Hope is based on some incidents which happened with me yesterday, it reverberates along some of my lows and worst moments of my life.**
+**Beuatiful rain is about a heartbroken man meeting his lover on a rainy day trying to even things between them but he fails miserably.**
 <br>
 <br>
 
