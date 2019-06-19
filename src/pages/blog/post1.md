@@ -6,7 +6,7 @@ date: '2019-06-09'
 ![photo](post1.jpg)
 <br>
 
-**Hope is based on some incidents which happened with me yesterday, it reverberates along some of my lows and worst moments of my life.**
+**Hope is based on some incidents which happened to me yesterday, it reverberates along some of the lows and worst moments of my life.**
 <br>
 <br>
 
